@@ -14,4 +14,9 @@
 | -----------|
 | https://drive.google.com/drive/folders/1FHKW_5qV-Rz7qe1dPHf2fg5ZEeSodsz-|
 
+| Создание тг бота 🥟|
+| -----------|
+| https://colab.research.google.com/drive/10Smme348wSAHjcmTLLOk8OoxUh38SqtM?usp=sharing |
+
+
 
