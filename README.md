@@ -16,7 +16,28 @@
 
 | Создание тг бота 🥟|
 | -----------|
-| https://colab.research.google.com/drive/10Smme348wSAHjcmTLLOk8OoxUh38SqtM?usp=sharing |
+| https://colab.research.google.com/drive/1sUxfhphkH8zcZoDsa022c9kuykWrS55S#scrollTo=djLW8jnwF7NX |
+
+| Траектория будущего 🩹|
+| -----------|
+| https://drive.google.com/drive/folders/1F0UrlQXmIo3YSj1xaZYuRti9xUeyYFl- |
+
+| Организация корпоративной сети 🏴|
+| -----------|
+| https://drive.google.com/drive/folders/1QltqzZiksMf6l7y0hRgxg82_9rDgcgdv |
+
+| Работа с другими ОС 🥑|
+| -----------|
+| https://docs.google.com/document/d/1ciRds3MhAaGyv4ssQ4i_9_ZMST239ZvnPD8qGvknNfA/edit?tab=t.0 |
+
+| IT-планета 🫀|
+| -----------|
+| жду результата |
+
+
+
+
+
 
 
 
