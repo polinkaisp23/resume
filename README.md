@@ -18,6 +18,8 @@
 | -----------|
 | https://colab.research.google.com/drive/1sUxfhphkH8zcZoDsa022c9kuykWrS55S#scrollTo=djLW8jnwF7NX |
 | https://colab.research.google.com/drive/1kgt4oBYmq01RPB5cv6fsgdhvYQI1gnKF|
+| https://colab.research.google.com/drive/1n1xYetGtRpF_vkcAAUwf8Av_pm7xRrmA#scrollTo=taJ36pGbep_0 |
+
 
 | Траектория будущего 🩹|
 | -----------|
