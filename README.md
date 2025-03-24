@@ -37,6 +37,11 @@
 | -----------|
 | жду результата |
 
+| тг бот для конкурса ✈️ |
+| ----------- |
+| https://drive.google.com/drive/folders/1PJnmlMpFywB7gew5yT0ISmZY0j5hOIr6 |
+
+
 
 
 
